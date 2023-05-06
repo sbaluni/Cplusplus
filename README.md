@@ -1,2 +1,2 @@
-# Cplusplus
-Repository for C++ programs.
+# C++
+Repository for C++ learning.
